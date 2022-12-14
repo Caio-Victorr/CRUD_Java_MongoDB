@@ -1,6 +1,6 @@
 # CRUD_Java_MongoDB
 
-Desenvolvido para Disciplina de  Banco de Dados II Integração da aplicação Crud com o mongo DB.
+Desenvolvido para Disciplina de  Banco de Dados II Integração da aplicação Crud com o mongo DB. Utilizou o Java em sua Versão sendo a 11
 
 Equipe: Caio Victor, Jhonny Ferreira, Ygor Kwan
 
